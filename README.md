@@ -4,6 +4,7 @@
 - Blog: https://blog.naver.com/binny1204
 - Github: https://github.com/sunflower888
 
+github-metrics.svg 
 
 ## Summary
 > Java, JavaScript, Css 애니메이션 등에 관심 있습니다. 
