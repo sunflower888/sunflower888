@@ -2,7 +2,7 @@
 
 > 안녕하세요. 배금빈입니다.
 
-- E-mail: binny1204@donga.ac.kr
+- E-mail: binny1204@naver.com
 - Blog: https://blog.naver.com/binny1204
 - Github: https://github.com/sunflower888
 
