@@ -1,11 +1,9 @@
-# Hello. I'm GeumBin Bae.
+# 👋 Hello. I'm GeumBin Bae.
 
-> Hello. I'm GeumBin Bae. 
+> Hello. I'm GeumBin Bae, a slow but steady developer.
 
 - E-mail: geumbin1204@gmail.com 
 - Github: https://github.com/sunflower888
-
-![sunflower888](/github-metrics.svg)
 
 ## Summary
 
